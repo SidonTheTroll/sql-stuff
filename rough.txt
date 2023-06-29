@@ -1,0 +1,26 @@
+>> Database: any collection of related information. 
+    Phone book
+    Shopping list 
+    Todo list 
+    Facebook's user base 
+
+Databases can be stored in different ways:
+    On paper 
+    In mind
+    On a computer 
+
+Computers are great for storing databases because it can store millions of lines of information in the memory 
+
+
+
+Database Management Systems (DBMS)
+> A special software program that helps users create and maintain a database. 
+    Makes it easy to manage large amounts of information
+    Handles security 
+    Backups 
+    Importing/exporting data 
+    Concurrency 
+    Interact with sofaware applications 
+
+
+C.R.U.D: Create Read Update Delete 
